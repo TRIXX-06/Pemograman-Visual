@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Pemograman-Visual\\Pertemuan6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{105BE0EB-C581-4D8B-A730-38A5E3FB4F70}|Pertemuan6\\Pertemuan6.vbproj|D:\\Pemograman-Visual\\Pertemuan6\\pertemuan6\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{105BE0EB-C581-4D8B-A730-38A5E3FB4F70}|Pertemuan6\\Pertemuan6.vbproj|solutionrelative:pertemuan6\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105BE0EB-C581-4D8B-A730-38A5E3FB4F70}|Pertemuan6\\Pertemuan6.vbproj|d:\\pemograman-visual\\pertemuan6\\pertemuan6\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{105BE0EB-C581-4D8B-A730-38A5E3FB4F70}|Pertemuan6\\Pertemuan6.vbproj|solutionrelative:pertemuan6\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105BE0EB-C581-4D8B-A730-38A5E3FB4F70}|Pertemuan6\\Pertemuan6.vbproj|D:\\Pemograman-Visual\\Pertemuan6\\pertemuan6\\moddatabase.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{105BE0EB-C581-4D8B-A730-38A5E3FB4F70}|Pertemuan6\\Pertemuan6.vbproj|solutionrelative:pertemuan6\\moddatabase.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105BE0EB-C581-4D8B-A730-38A5E3FB4F70}|Pertemuan6\\Pertemuan6.vbproj|D:\\Pemograman-Visual\\Pertemuan6\\pertemuan6\\modfunction.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{105BE0EB-C581-4D8B-A730-38A5E3FB4F70}|Pertemuan6\\Pertemuan6.vbproj|solutionrelative:pertemuan6\\modfunction.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105BE0EB-C581-4D8B-A730-38A5E3FB4F70}|Pertemuan6\\Pertemuan6.vbproj|D:\\Pemograman-Visual\\Pertemuan6\\pertemuan6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{105BE0EB-C581-4D8B-A730-38A5E3FB4F70}|Pertemuan6\\Pertemuan6.vbproj|solutionrelative:pertemuan6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105BE0EB-C581-4D8B-A730-38A5E3FB4F70}|Pertemuan6\\Pertemuan6.vbproj|D:\\Pemograman-Visual\\Pertemuan6\\pertemuan6\\modquery.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{105BE0EB-C581-4D8B-A730-38A5E3FB4F70}|Pertemuan6\\Pertemuan6.vbproj|solutionrelative:pertemuan6\\modquery.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\Pemograman-Visual\\Pertemuan6\\Pertemuan6\\Form1.vb",
+              "RelativeDocumentMoniker": "Pertemuan6\\Form1.vb",
+              "ToolTip": "D:\\Pemograman-Visual\\Pertemuan6\\Pertemuan6\\Form1.vb",
+              "RelativeToolTip": "Pertemuan6\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-22T05:05:02.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModFunction.vb",
+              "DocumentMoniker": "D:\\Pemograman-Visual\\Pertemuan6\\Pertemuan6\\ModFunction.vb",
+              "RelativeDocumentMoniker": "Pertemuan6\\ModFunction.vb",
+              "ToolTip": "D:\\Pemograman-Visual\\Pertemuan6\\Pertemuan6\\ModFunction.vb",
+              "RelativeToolTip": "Pertemuan6\\ModFunction.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-22T04:52:09.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModQuery.vb",
+              "DocumentMoniker": "D:\\Pemograman-Visual\\Pertemuan6\\Pertemuan6\\ModQuery.vb",
+              "RelativeDocumentMoniker": "Pertemuan6\\ModQuery.vb",
+              "ToolTip": "D:\\Pemograman-Visual\\Pertemuan6\\Pertemuan6\\ModQuery.vb",
+              "RelativeToolTip": "Pertemuan6\\ModQuery.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-22T04:50:30.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "modDatabase.vb",
+              "DocumentMoniker": "D:\\Pemograman-Visual\\Pertemuan6\\Pertemuan6\\modDatabase.vb",
+              "RelativeDocumentMoniker": "Pertemuan6\\modDatabase.vb",
+              "ToolTip": "D:\\Pemograman-Visual\\Pertemuan6\\Pertemuan6\\modDatabase.vb",
+              "RelativeToolTip": "Pertemuan6\\modDatabase.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-22T04:19:39.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\Pemograman-Visual\\Pertemuan6\\Pertemuan6\\Form1.vb",
+              "RelativeDocumentMoniker": "Pertemuan6\\Form1.vb",
+              "ToolTip": "D:\\Pemograman-Visual\\Pertemuan6\\Pertemuan6\\Form1.vb [Design]",
+              "RelativeToolTip": "Pertemuan6\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-22T04:18:11.871Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Pemograman-Visual\\Pertemuan6\\Pertemuan6\\appsettings.json",
+              "RelativeDocumentMoniker": "Pertemuan6\\appsettings.json",
+              "ToolTip": "D:\\Pemograman-Visual\\Pertemuan6\\Pertemuan6\\appsettings.json",
+              "RelativeToolTip": "Pertemuan6\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-22T04:04:38.952Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
