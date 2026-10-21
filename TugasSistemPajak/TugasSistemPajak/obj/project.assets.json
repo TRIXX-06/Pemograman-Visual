@@ -8,19 +8,19 @@
     "net10.0-windows": []
   },
   "packageFolders": {
-    "C:\\Users\\reza\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\reza\\Pemograman Visual\\TugasSistemPajak\\TugasSistemPajak\\Tugas1_SistemHitungPajak.vbproj",
+      "projectUniqueName": "D:\\Pemograman-Visual\\TugasSistemPajak\\TugasSistemPajak\\Tugas1_SistemHitungPajak.vbproj",
       "projectName": "Tugas1_SistemHitungPajak",
-      "projectPath": "C:\\Users\\reza\\Pemograman Visual\\TugasSistemPajak\\TugasSistemPajak\\Tugas1_SistemHitungPajak.vbproj",
-      "packagesPath": "C:\\Users\\reza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\reza\\Pemograman Visual\\TugasSistemPajak\\TugasSistemPajak\\obj\\",
+      "projectPath": "D:\\Pemograman-Visual\\TugasSistemPajak\\TugasSistemPajak\\Tugas1_SistemHitungPajak.vbproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "D:\\Pemograman-Visual\\TugasSistemPajak\\TugasSistemPajak\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\reza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -72,7 +72,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

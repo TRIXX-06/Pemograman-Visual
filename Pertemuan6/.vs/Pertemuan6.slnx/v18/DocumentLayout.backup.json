@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "D:\\Pemograman-Visual\\Pertemuan6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{105BE0EB-C581-4D8B-A730-38A5E3FB4F70}|Pertemuan6\\Pertemuan6.vbproj|d:\\pemograman-visual\\pertemuan6\\pertemuan6\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{105BE0EB-C581-4D8B-A730-38A5E3FB4F70}|Pertemuan6\\Pertemuan6.vbproj|solutionrelative:pertemuan6\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{105BE0EB-C581-4D8B-A730-38A5E3FB4F70}|Pertemuan6\\Pertemuan6.vbproj|d:\\pemograman-visual\\pertemuan6\\pertemuan6\\modfunction.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{105BE0EB-C581-4D8B-A730-38A5E3FB4F70}|Pertemuan6\\Pertemuan6.vbproj|solutionrelative:pertemuan6\\modfunction.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{105BE0EB-C581-4D8B-A730-38A5E3FB4F70}|Pertemuan6\\Pertemuan6.vbproj|d:\\pemograman-visual\\pertemuan6\\pertemuan6\\moddatabase.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{105BE0EB-C581-4D8B-A730-38A5E3FB4F70}|Pertemuan6\\Pertemuan6.vbproj|solutionrelative:pertemuan6\\moddatabase.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{105BE0EB-C581-4D8B-A730-38A5E3FB4F70}|Pertemuan6\\Pertemuan6.vbproj|d:\\pemograman-visual\\pertemuan6\\pertemuan6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{105BE0EB-C581-4D8B-A730-38A5E3FB4F70}|Pertemuan6\\Pertemuan6.vbproj|solutionrelative:pertemuan6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{105BE0EB-C581-4D8B-A730-38A5E3FB4F70}|Pertemuan6\\Pertemuan6.vbproj|d:\\pemograman-visual\\pertemuan6\\pertemuan6\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{105BE0EB-C581-4D8B-A730-38A5E3FB4F70}|Pertemuan6\\Pertemuan6.vbproj|solutionrelative:pertemuan6\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{105BE0EB-C581-4D8B-A730-38A5E3FB4F70}|Pertemuan6\\Pertemuan6.vbproj|d:\\pemograman-visual\\pertemuan6\\pertemuan6\\modquery.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{105BE0EB-C581-4D8B-A730-38A5E3FB4F70}|Pertemuan6\\Pertemuan6.vbproj|D:\\Pemograman-Visual\\Pertemuan6\\pertemuan6\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{105BE0EB-C581-4D8B-A730-38A5E3FB4F70}|Pertemuan6\\Pertemuan6.vbproj|solutionrelative:pertemuan6\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105BE0EB-C581-4D8B-A730-38A5E3FB4F70}|Pertemuan6\\Pertemuan6.vbproj|D:\\Pemograman-Visual\\Pertemuan6\\pertemuan6\\modfunction.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{105BE0EB-C581-4D8B-A730-38A5E3FB4F70}|Pertemuan6\\Pertemuan6.vbproj|solutionrelative:pertemuan6\\modfunction.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105BE0EB-C581-4D8B-A730-38A5E3FB4F70}|Pertemuan6\\Pertemuan6.vbproj|D:\\Pemograman-Visual\\Pertemuan6\\pertemuan6\\moddatabase.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{105BE0EB-C581-4D8B-A730-38A5E3FB4F70}|Pertemuan6\\Pertemuan6.vbproj|solutionrelative:pertemuan6\\moddatabase.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105BE0EB-C581-4D8B-A730-38A5E3FB4F70}|Pertemuan6\\Pertemuan6.vbproj|D:\\Pemograman-Visual\\Pertemuan6\\pertemuan6\\modquery.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{105BE0EB-C581-4D8B-A730-38A5E3FB4F70}|Pertemuan6\\Pertemuan6.vbproj|solutionrelative:pertemuan6\\modquery.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105BE0EB-C581-4D8B-A730-38A5E3FB4F70}|Pertemuan6\\Pertemuan6.vbproj|D:\\Pemograman-Visual\\Pertemuan6\\pertemuan6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{105BE0EB-C581-4D8B-A730-38A5E3FB4F70}|Pertemuan6\\Pertemuan6.vbproj|solutionrelative:pertemuan6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,20 +46,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.vb",
               "DocumentMoniker": "D:\\Pemograman-Visual\\Pertemuan6\\Pertemuan6\\Form1.vb",
               "RelativeDocumentMoniker": "Pertemuan6\\Form1.vb",
               "ToolTip": "D:\\Pemograman-Visual\\Pertemuan6\\Pertemuan6\\Form1.vb",
               "RelativeToolTip": "Pertemuan6\\Form1.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-09-22T05:05:02.694Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ModFunction.vb",
               "DocumentMoniker": "D:\\Pemograman-Visual\\Pertemuan6\\Pertemuan6\\ModFunction.vb",
               "RelativeDocumentMoniker": "Pertemuan6\\ModFunction.vb",
@@ -72,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "ModQuery.vb",
               "DocumentMoniker": "D:\\Pemograman-Visual\\Pertemuan6\\Pertemuan6\\ModQuery.vb",
               "RelativeDocumentMoniker": "Pertemuan6\\ModQuery.vb",
@@ -85,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "modDatabase.vb",
               "DocumentMoniker": "D:\\Pemograman-Visual\\Pertemuan6\\Pertemuan6\\modDatabase.vb",
               "RelativeDocumentMoniker": "Pertemuan6\\modDatabase.vb",
@@ -98,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Form1.vb [Design]",
               "DocumentMoniker": "D:\\Pemograman-Visual\\Pertemuan6\\Pertemuan6\\Form1.vb",
               "RelativeDocumentMoniker": "Pertemuan6\\Form1.vb",
@@ -110,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Pemograman-Visual\\Pertemuan6\\Pertemuan6\\appsettings.json",
               "RelativeDocumentMoniker": "Pertemuan6\\appsettings.json",
@@ -118,8 +118,7 @@
               "RelativeToolTip": "Pertemuan6\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-22T04:04:38.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-22T04:04:38.952Z"
             }
           ]
         }

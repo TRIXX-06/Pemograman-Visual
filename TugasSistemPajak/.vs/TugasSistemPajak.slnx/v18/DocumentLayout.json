@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\reza\\Pemograman Visual\\TugasSistemPajak\\",
+  "WorkspaceRootPath": "D:\\Pemograman-Visual\\TugasSistemPajak\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC04E2E8-1707-1063-FF3E-E21AB27C456F}|TugasSistemPajak\\TugasSistemPajak.vbproj|c:\\users\\reza\\pemograman visual\\tugassistempajak\\tugassistempajak\\frmpajak.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{DC04E2E8-1707-1063-FF3E-E21AB27C456F}|TugasSistemPajak\\TugasSistemPajak.vbproj|solutionrelative:tugassistempajak\\frmpajak.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{256A9739-CB60-B6B3-E917-851396181C57}|TugasSistemPajak\\Tugas1_SistemHitungPajak.vbproj|d:\\pemograman-visual\\tugassistempajak\\tugassistempajak\\frmpajak.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{256A9739-CB60-B6B3-E917-851396181C57}|TugasSistemPajak\\Tugas1_SistemHitungPajak.vbproj|solutionrelative:tugassistempajak\\frmpajak.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC04E2E8-1707-1063-FF3E-E21AB27C456F}|TugasSistemPajak\\TugasSistemPajak.vbproj|c:\\users\\reza\\pemograman visual\\tugassistempajak\\tugassistempajak\\frmpajak.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{DC04E2E8-1707-1063-FF3E-E21AB27C456F}|TugasSistemPajak\\TugasSistemPajak.vbproj|solutionrelative:tugassistempajak\\frmpajak.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{256A9739-CB60-B6B3-E917-851396181C57}|TugasSistemPajak\\Tugas1_SistemHitungPajak.vbproj|d:\\pemograman-visual\\tugassistempajak\\tugassistempajak\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{256A9739-CB60-B6B3-E917-851396181C57}|TugasSistemPajak\\Tugas1_SistemHitungPajak.vbproj|solutionrelative:tugassistempajak\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC04E2E8-1707-1063-FF3E-E21AB27C456F}|TugasSistemPajak\\Tugas1_SistemHitungPajak.vbproj|c:\\users\\reza\\pemograman visual\\tugassistempajak\\tugassistempajak\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{DC04E2E8-1707-1063-FF3E-E21AB27C456F}|TugasSistemPajak\\Tugas1_SistemHitungPajak.vbproj|solutionrelative:tugassistempajak\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{256A9739-CB60-B6B3-E917-851396181C57}|TugasSistemPajak\\Tugas1_SistemHitungPajak.vbproj|d:\\pemograman-visual\\tugassistempajak\\tugassistempajak\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{256A9739-CB60-B6B3-E917-851396181C57}|TugasSistemPajak\\Tugas1_SistemHitungPajak.vbproj|solutionrelative:tugassistempajak\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC04E2E8-1707-1063-FF3E-E21AB27C456F}|TugasSistemPajak\\Tugas1_SistemHitungPajak.vbproj|c:\\users\\reza\\pemograman visual\\tugassistempajak\\tugassistempajak\\my project\\application.myapp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{DC04E2E8-1707-1063-FF3E-E21AB27C456F}|TugasSistemPajak\\Tugas1_SistemHitungPajak.vbproj|solutionrelative:tugassistempajak\\my project\\application.myapp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{256A9739-CB60-B6B3-E917-851396181C57}|TugasSistemPajak\\Tugas1_SistemHitungPajak.vbproj|d:\\pemograman-visual\\tugassistempajak\\tugassistempajak\\my project\\application.myapp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{256A9739-CB60-B6B3-E917-851396181C57}|TugasSistemPajak\\Tugas1_SistemHitungPajak.vbproj|solutionrelative:tugassistempajak\\my project\\application.myapp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC04E2E8-1707-1063-FF3E-E21AB27C456F}|TugasSistemPajak\\TugasSistemPajak.vbproj|c:\\users\\reza\\pemograman visual\\tugassistempajak\\tugassistempajak\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{DC04E2E8-1707-1063-FF3E-E21AB27C456F}|TugasSistemPajak\\TugasSistemPajak.vbproj|solutionrelative:tugassistempajak\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{256A9739-CB60-B6B3-E917-851396181C57}|TugasSistemPajak\\Tugas1_SistemHitungPajak.vbproj|d:\\pemograman-visual\\tugassistempajak\\tugassistempajak\\frmpajak.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{256A9739-CB60-B6B3-E917-851396181C57}|TugasSistemPajak\\Tugas1_SistemHitungPajak.vbproj|solutionrelative:tugassistempajak\\frmpajak.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC04E2E8-1707-1063-FF3E-E21AB27C456F}|TugasSistemPajak\\TugasSistemPajak.vbproj|c:\\users\\reza\\pemograman visual\\tugassistempajak\\tugassistempajak\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{DC04E2E8-1707-1063-FF3E-E21AB27C456F}|TugasSistemPajak\\TugasSistemPajak.vbproj|solutionrelative:tugassistempajak\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{256A9739-CB60-B6B3-E917-851396181C57}|TugasSistemPajak\\Tugas1_SistemHitungPajak.vbproj|d:\\pemograman-visual\\tugassistempajak\\tugassistempajak\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{256A9739-CB60-B6B3-E917-851396181C57}|TugasSistemPajak\\Tugas1_SistemHitungPajak.vbproj|solutionrelative:tugassistempajak\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,15 +34,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "FrmPajak.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\reza\\Pemograman Visual\\TugasSistemPajak\\TugasSistemPajak\\FrmPajak.vb",
+              "DocumentMoniker": "D:\\Pemograman-Visual\\TugasSistemPajak\\TugasSistemPajak\\FrmPajak.vb",
               "RelativeDocumentMoniker": "TugasSistemPajak\\FrmPajak.vb",
-              "ToolTip": "C:\\Users\\reza\\Pemograman Visual\\TugasSistemPajak\\TugasSistemPajak\\FrmPajak.vb [Design]",
+              "ToolTip": "D:\\Pemograman-Visual\\TugasSistemPajak\\TugasSistemPajak\\FrmPajak.vb [Design]",
               "RelativeToolTip": "TugasSistemPajak\\FrmPajak.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-09-07T11:05:30.073Z",
@@ -50,25 +50,32 @@
               "EditorCaption": " [Design]"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Application.Designer.vb",
-              "DocumentMoniker": "C:\\Users\\reza\\Pemograman Visual\\TugasSistemPajak\\TugasSistemPajak\\My Project\\Application.Designer.vb",
+              "DocumentMoniker": "D:\\Pemograman-Visual\\TugasSistemPajak\\TugasSistemPajak\\My Project\\Application.Designer.vb",
               "RelativeDocumentMoniker": "TugasSistemPajak\\My Project\\Application.Designer.vb",
-              "ToolTip": "C:\\Users\\reza\\Pemograman Visual\\TugasSistemPajak\\TugasSistemPajak\\My Project\\Application.Designer.vb",
+              "ToolTip": "D:\\Pemograman-Visual\\TugasSistemPajak\\TugasSistemPajak\\My Project\\Application.Designer.vb",
               "RelativeToolTip": "TugasSistemPajak\\My Project\\Application.Designer.vb",
               "ViewState": "AgIAABsAAAAAAAAAAAAuwCMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-09-08T03:00:42.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-08T03:00:42.22Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Application.myapp",
-              "DocumentMoniker": "C:\\Users\\reza\\Pemograman Visual\\TugasSistemPajak\\TugasSistemPajak\\My Project\\Application.myapp",
+              "DocumentMoniker": "D:\\Pemograman-Visual\\TugasSistemPajak\\TugasSistemPajak\\My Project\\Application.myapp",
               "RelativeDocumentMoniker": "TugasSistemPajak\\My Project\\Application.myapp",
-              "ToolTip": "C:\\Users\\reza\\Pemograman Visual\\TugasSistemPajak\\TugasSistemPajak\\My Project\\Application.myapp",
+              "ToolTip": "D:\\Pemograman-Visual\\TugasSistemPajak\\TugasSistemPajak\\My Project\\Application.myapp",
               "RelativeToolTip": "TugasSistemPajak\\My Project\\Application.myapp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
@@ -77,11 +84,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "FrmLogin.vb",
-              "DocumentMoniker": "C:\\Users\\reza\\Pemograman Visual\\TugasSistemPajak\\TugasSistemPajak\\FrmLogin.vb",
+              "DocumentMoniker": "D:\\Pemograman-Visual\\TugasSistemPajak\\TugasSistemPajak\\FrmLogin.vb",
               "RelativeDocumentMoniker": "TugasSistemPajak\\FrmLogin.vb",
-              "ToolTip": "C:\\Users\\reza\\Pemograman Visual\\TugasSistemPajak\\TugasSistemPajak\\FrmLogin.vb",
+              "ToolTip": "D:\\Pemograman-Visual\\TugasSistemPajak\\TugasSistemPajak\\FrmLogin.vb",
               "RelativeToolTip": "TugasSistemPajak\\FrmLogin.vb",
               "ViewState": "AgIAABcAAAAAAAAAAAAEwB0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
@@ -92,22 +99,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FrmPajak.vb",
-              "DocumentMoniker": "C:\\Users\\reza\\Pemograman Visual\\TugasSistemPajak\\TugasSistemPajak\\FrmPajak.vb",
+              "DocumentMoniker": "D:\\Pemograman-Visual\\TugasSistemPajak\\TugasSistemPajak\\FrmPajak.vb",
               "RelativeDocumentMoniker": "TugasSistemPajak\\FrmPajak.vb",
-              "ToolTip": "C:\\Users\\reza\\Pemograman Visual\\TugasSistemPajak\\TugasSistemPajak\\FrmPajak.vb",
+              "ToolTip": "D:\\Pemograman-Visual\\TugasSistemPajak\\TugasSistemPajak\\FrmPajak.vb",
               "RelativeToolTip": "TugasSistemPajak\\FrmPajak.vb",
-              "ViewState": "AgIAACsAAAAAAAAAAAAiwDcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-09-07T11:34:44.821Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "FrmLogin.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\reza\\Pemograman Visual\\TugasSistemPajak\\TugasSistemPajak\\FrmLogin.vb",
+              "DocumentMoniker": "D:\\Pemograman-Visual\\TugasSistemPajak\\TugasSistemPajak\\FrmLogin.vb",
               "RelativeDocumentMoniker": "TugasSistemPajak\\FrmLogin.vb",
-              "ToolTip": "C:\\Users\\reza\\Pemograman Visual\\TugasSistemPajak\\TugasSistemPajak\\FrmLogin.vb [Design]",
+              "ToolTip": "D:\\Pemograman-Visual\\TugasSistemPajak\\TugasSistemPajak\\FrmLogin.vb [Design]",
               "RelativeToolTip": "TugasSistemPajak\\FrmLogin.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-09-07T10:38:01.442Z",

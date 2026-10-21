@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Tugas1_SistemHitungPajak"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05d6fceb9ac3f1c612f58508ba56f84363ca947d"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56f020f3fb66b5093a128181455991b08ea7bc48"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Tugas1_SistemHitungPajak"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Tugas1_SistemHitungPajak"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
