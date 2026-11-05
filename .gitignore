@@ -1,0 +1,16 @@
+
+# Visual Studio temporary files
+.vs/
+**/.vs/
+
+# Build output
+bin/
+obj/
+Debug/
+Release/
+
+# Temporary files
+*.user
+*.suo
+*.cache
+*.vsidx
